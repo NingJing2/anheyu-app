@@ -1,0 +1,5 @@
+name = "anheyu-frontend"          # 你的 Workers 项目名称
+compatibility_date = "2026-02-17"  # 与构建日志中的日期保持一致
+
+[assets]
+directory = "./assets/dist"        # 指向构建后的前端文件目录
